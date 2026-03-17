@@ -1,4 +1,12 @@
-## Hi there 👋
+## About me:
+
+**Simona Sucha**
+*(AKA ssucha or vincent_syma)* <br>
+Python & C · Developer, Software Tester · 42 student
+
+🖥️ GitHub: https://github.com/vincent-syma/ <br>
+🔗 LinkedIn: https://www.linkedin.com/in/simona-such%C3%A1-5a1b1928b <br>
+✉️ Email: vincent.f.syma@email.cz <br>
 
 <!--
 **vincent-syma/vincent-syma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
