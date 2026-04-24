@@ -2,7 +2,7 @@
 
 **Simona Sucha**
 *(also known as ssucha or vincent_syma)* <br>
-Python & C · Software Developer, Tester · 42 student
+Python & C · Software Developer · 42 student
 
 > 🚀 **Currently open to job opportunities (junior / project-based)**
 
