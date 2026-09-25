@@ -2,11 +2,11 @@
 
 **Simona Sucha**
 *(also known as ssucha or vincent_syma)* <br>
-Python & C · Software Developer · 42 student
+Python & C · Software Developer · 42 Student & Tutor
 
-> 🚀 **Currently open to job opportunities (junior / project-based)**
+> 🚀 **Currently open to job opportunities (project-based)**
 
-- I’m currently looking for a junior position, where I can keep learning while contributing to real-world projects.
+- I’m currently looking for a part-time opportunity, where I can keep learning while contributing to real-world project.
 - If I piqued your interest, do not hesitate to contact me:
 
 🖥️ GitHub: https://github.com/vincent-syma/ <br>
