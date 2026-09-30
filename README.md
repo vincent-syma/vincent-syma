@@ -10,7 +10,7 @@ Python & C · Software Developer · 42 Student & Tutor
 - If I piqued your interest, do not hesitate to contact me:
 
 🖥️ GitHub: https://github.com/vincent-syma/ <br>
-🔗 LinkedIn: https://www.linkedin.com/in/simona-such%C3%A1-5a1b1928b <br>
+🔗 LinkedIn: https://www.linkedin.com/in/simonasucha <br>
 ✉️ Email: vincent.f.syma@email.cz <br>
 
 
